@@ -109,12 +109,12 @@ centimetre rockstar ’s home boasts beautiful high ceilings .
 
 ---
 _Human summary:_
-```brain cancer news articles and videos from foxnews.com ’s health section.
-
+```
+brain cancer news articles and videos from foxnews.com 's health section.
 ```
 _Network generated summary:_
 ```national institutes of health expert reviewers are finding flaws in the
-agency ’s new study that connects heavy cell phone radiation to a slight
+agency 's new study that connects heavy cell phone radiation to a slight
 increase in brain tumors in male rat ... a major u.s. government study
 on rats has found a link between cellphones and cancer .
 
