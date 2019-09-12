@@ -3,6 +3,7 @@ This repository acts like an appendix for the paper "Enhancing a Text Summarizat
 It contains a list of pairs <ground truth summary, system generated summary> from the newsroom dataset.
 
 ---
+### 1
 _Human summary:_
 ```
 cnn ’s dr. sanjay gupta answers questions about medical marijuana .
@@ -19,6 +20,7 @@ et sunday .
 
 
 ---
+### 2
 _Human summary:_
 ```
 2 minors were sentenced to 10 years in prison , in addition to adults get-
@@ -36,6 +38,7 @@ august , the advocacy group human rights watch reports .
 
 
 ---
+### 3
 _Human summary:_
 ```
 ian bell hit 143 on the opening day of the first test in antigua . bell
@@ -52,6 +55,7 @@ ian bell was dropped from the side on his last visit to the caribbean in
 
 
 ---
+### 4
 _Human summary:_
 ```
 author martin fletcher claims the devastating blaze was not an accident
@@ -71,6 +75,7 @@ review any fresh evidence surrounding the tragedy .
 
 
 ---
+### 5
 _Human summary:_
 ```
 nasser hussain believes it ’s time to look at the structure of english cricket
@@ -88,6 +93,7 @@ of cricketer required to succeed in international one-day cricket .
 
 
 ---
+### 6
 _Human summary:_
 ```
 australia ’s favourite rock star-turned-politician peter garrett has put his
@@ -108,6 +114,7 @@ centimetre rockstar ’s home boasts beautiful high ceilings .
 
 
 ---
+### 7
 _Human summary:_
 ```
 brain cancer news articles and videos from foxnews.com 's health section.
@@ -122,6 +129,7 @@ on rats has found a link between cellphones and cancer .
 
 
 ---
+### 8
 _Human summary:_
 ```
 They say it’s cheaper for employees and better for business.
@@ -137,6 +145,7 @@ factors that helped elevate these nine companies to fortune ’ s list of the
 
 
 ---
+### 9
 _Human summary:_
 ```
 authorities said saturday that a third suspect was arrested in the killing
@@ -152,6 +161,7 @@ couple who rented the woman ’s home were taken into custody .
 
 
 ---
+### 10
 _Human summary:_
 ```
 olympic leaders have decided not to impose a total ban on russian ath-
