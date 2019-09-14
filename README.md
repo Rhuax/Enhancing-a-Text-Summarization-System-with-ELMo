@@ -1,6 +1,6 @@
 # Enhancing-a-Text-Summarization-System-with-ELMo
 This repository acts like an appendix for the paper "Enhancing a Text Summarization System with ELMo".<br>
-It contains a list of pairs <ground truth summary, system generated summary> from both the newsroom dataset and CNN/Daily Mail dataset.
+It contains a list of pairs <original news article, ground truth summary, system generated summary> from both the newsroom dataset and CNN/Daily Mail dataset.
 
 ---
 ### 1
